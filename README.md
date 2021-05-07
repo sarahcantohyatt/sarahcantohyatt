@@ -1,10 +1,6 @@
 ### Hi there, I'm Sarah 👋
 Welcome!! <br />
 <br />
-"...if you aren't, at any given time, scandalized by code you wrote five or even three years ago,
- you're not learning anywhere near enough” <br />
--Nick Black
-<br />
 ###  About Me ### 
 I'm a senior at CSUN graduating with a B.S. in Computer Science Spring 2021.🎓 <br />
 I'm also an incoming graduate student Fall 2021 at CSUN for a M.S. in Computer Science <br />
