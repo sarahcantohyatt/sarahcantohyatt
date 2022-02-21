@@ -10,10 +10,11 @@ CS Education <br />
 Programming languages <br />
 Theory of computation <br />
 Web Development <br />
-Compilers
+Compilers <br />
+Automated Testing
 ### Hobbies ###
 Working on cars🏎 <br />
-Animal Crossing🎮 <br />
+Gamez🎮 <br />
 
 <!--
 **sarahnicoleboo/sarahnicoleboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
