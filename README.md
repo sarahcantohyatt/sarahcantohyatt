@@ -1,10 +1,10 @@
-### Hi there, I'm Sarah 👋
-<br />
-###  About Me <br />
-I have a B.S. in Computer Science.🎓 <br />
-I'm a graduate student at CSUN for a M.S. in Computer Science <br />
-I tutor undergrad CS students👩‍💻
-<br />
+### Hi there, I'm Sarah 👋  
+  
+  
+###  About Me  
+I have a B.S. in Computer Science.🎓  
+I'm a graduate student at CSUN for a M.S. in Computer Science  
+I tutor undergrad CS students👩‍💻  
 ### Professional Interests ###
 CS Education <br />
 Programming languages <br />
