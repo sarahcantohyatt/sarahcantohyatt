@@ -1,5 +1,5 @@
 ### Hi there, I'm Sarah 👋
-Welcome!! <br />
+<br />
 ###  About Me ### 
 I have a B.S. in Computer Science.🎓 <br />
 I'm a graduate student at CSUN for a M.S. in Computer Science <br />
