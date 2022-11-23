@@ -1,17 +1,16 @@
 ### Hi there, I'm Sarah 👋  
 I have a B.S. in Computer Science.🎓  
 I'm a graduate student at CSUN for a M.S. in Computer Science  
-I tutor undergrad CS students👩‍💻
+I tutor/TA undergrad CS students👩‍💻
 <br />
 ### Professional Interests ###
 CS Education <br />
+Compilers <br />
+Automated Testing <br />
 Programming languages <br />
 Theory of computation <br />
-Web Development <br />
-Compilers <br />
-Automated Testing
 ### Hobbies
-Working on cars🏎 <br />
+Cars🏎 <br />
 Gamez🎮 <br />
 
 <!--
